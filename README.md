@@ -1,121 +1,83 @@
-# Hi, I'm Brijesh Nagar 👋
+<h1 align="center">Hi 👋, I'm Brijesh Nagar</h1>
+<h3 align="center">Frontend Developer | JavaScript Learner | WordPress Designer</h3>
 
-💻 **Frontend Developer | Web Designer | WordPress Developer**  
-📍 Meethapur, Badarpur, Delhi, India  
-📧 nagarb96@gmail.com | 📱 750-398-1251  
-🔗 LinkedIn: https://linkedin.com/in/nagarb96  
-🔗 GitHub: https://github.com/nagarb96
+<p align="center">
+  <a href="mailto:nagarb96@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/nagarb96">🔗 LinkedIn</a> •
+  <a href="https://github.com/nagarb96">💻 GitHub</a>
+</p>
 
 ---
 
 ## 🚀 About Me
-I’m a passionate **Frontend Developer** with hands-on experience in  
-HTML, CSS, JavaScript, Bootstrap, PHP, MySQL and WordPress.  
-I enjoy building clean, responsive and functional websites.
-
-Currently working in **Digital Marketing at Clear Click Concept**,  
-where I design social media posts, graphics, and also build websites  
-using wordpress and some section HTML, CSS, JS, PHP & MySQL.  
-
-
-I love learning new technologies, improving my skills, and turning  
-ideas into real web applications.
+Frontend Developer from Delhi, passionate about creating responsive, user-friendly websites using **HTML, CSS, JavaScript, Bootstrap & WordPress**.  
+Currently improving my JavaScript & React skills and building real projects to strengthen my portfolio.
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack & Tools
 
 ### **Frontend**
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7E13F8?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend / Database**
-- PHP  
-- MySQL  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools**
-- Canva  
-- WordPress  
-- Figma  
-- Photoshop  
-
-### **Other Skills**
-- Core Java basics  
-- SEO basics  
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🔥 Featured Projects
 
-### 🔹 **JavaScript Calculator**
-Simple calculator with DOM & events  
-🔗 Live: https://nagarb96.github.io/javascript-calculator/  
-🔗 Code: https://github.com/nagarb96/javascript-calculator
+### 🔹 [JavaScript Calculator](https://nagarb96.github.io/javascript-calculator/)
+Simple calculator built using DOM & events.
 
-### 🔹 **To-Do List App**
-Task manager with LocalStorage support  
-🔗 Live: https://nagarb96.github.io/todo-app-js/  
-🔗 Code: https://github.com/nagarb96/todo-app-js
+### 🔹 [To-Do App](https://nagarb96.github.io/todo-app-js/)
+Task manager with LocalStorage support.
 
-### 🔹 **Image Slider**
-Auto-slide + fade animation slider  
-🔗 Live: https://nagarb96.github.io/image-slider-js/  
-🔗 Code: https://github.com/nagarb96/image-slider-js
+### 🔹 [Image Slider](https://nagarb96.github.io/image-slider-js/)
+Auto-slide + fade effect.
 
-### 🔹 **Food Hub (Major Project)**
-E-commerce website (HTML, CSS, JS + Java backend with NIIT guidance)  
-
+### 🔹 Portfolio Website (Coming Soon)
 
 ---
 
-## 💼 Work Experience
+## 📊 GitHub Stats
 
-### **Digital Marketing — Clear Click Concept**  
-📍 Sector 135, Noida, UP | *May 2023 – Present*  
-- Designed logos, posts & quotes in Canva  
-- Built websites using HTML, CSS, JavaScript, Bootstrap & PHP  
-- Created database connections using MySQL  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarb96&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-### **Data Analyst — Tranistics Data & Technologies**  
-📍 Noida | *Apr 2022 – May 2023*  
-- Filled & validated customer data into company software  
-- Verified unclear PDF data with team lead  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarb96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-### **Accountant — H.S Associate**  
-📍 Noida | *Oct 2021 – Apr 2022*  
-- Managed company accounts & maintained accuracy  
-
----
-
-## 🎓 Education
-- **GNIIT Software Engineering** — NIIT, South Ext. (2015–2019)  
-- **B.A.** — IGNOU (2016–2019)  
-- **12th Grade** — Govt. Sr. Sec. School (2014–2015)  
-- **10th Grade** — Cosmos School (2012–2013)  
-
----
-
-## 🧠 Strengths
-- Hard-working  
-- Eye for detail  
-- Motivator & Team Leader  
-
----
-
-## 🎮 Hobbies
-- Internet Surfing  
-- Video Games  
-- Music  
-- Learning new things  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarb96&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📄 Resume
-👉 **Download Resume (PDF):** *(https://drive.google.com/file/d/1gQ3oblHcO7-sKvYOuPGQSr8VIEP5qgk_/view?usp=drive_link)*
+👉 Download Resume: *(Add Drive link)*
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*  
+## 🎯 Interests
+- Frontend Development  
+- JavaScript Projects  
+- UI/UX  
+- WordPress  
+- SEO & Digital Marketing  
+
+---
+
+⭐ *Thanks for visiting my profile! Connect with me for collaborations and projects.*  
