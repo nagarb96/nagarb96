@@ -63,7 +63,7 @@ Auto-slide + fade effect.
 ---
 
 ## 📄 Resume
-👉 Download Resume: *([Add Drive link](https://drive.google.com/file/d/1gQ3oblHcO7-sKvYOuPGQSr8VIEP5qgk_/view?usp=drive_link))*
+👉 Download Resume: *((https://drive.google.com/file/d/1gQ3oblHcO7-sKvYOuPGQSr8VIEP5qgk_/view?usp=drive_link))*
 
 ---
 
