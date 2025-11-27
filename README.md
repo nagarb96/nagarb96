@@ -51,11 +51,7 @@ Auto-slide + fade effect.
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarb96&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
+<div display="flex">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagarb96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -63,11 +59,11 @@ Auto-slide + fade effect.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarb96&layout=compact&theme=tokyonight" />
 </p>
-
+</div>
 ---
 
 ## 📄 Resume
-👉 Download Resume: *(Add Drive link)*
+👉 Download Resume: *([Add Drive link](https://drive.google.com/file/d/1gQ3oblHcO7-sKvYOuPGQSr8VIEP5qgk_/view?usp=drive_link))*
 
 ---
 
