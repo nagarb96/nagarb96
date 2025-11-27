@@ -16,7 +16,7 @@ I enjoy building clean, responsive and functional websites.
 Currently working in **Digital Marketing at Clear Click Concept**,  
 where I design social media posts, graphics, and also build websites  
 using HTML, CSS, JS, PHP & MySQL.  
-:contentReference[oaicite:1]{index=1}
+
 
 I love learning new technologies, improving my skills, and turning  
 ideas into real web applications.
@@ -44,7 +44,7 @@ ideas into real web applications.
 ### **Other Skills**
 - Core Java basics  
 - SEO basics  
-:contentReference[oaicite:2]{index=2}
+
 
 ---
 
@@ -78,18 +78,15 @@ E-commerce website (HTML, CSS, JS + Java backend with NIIT guidance)
 - Designed logos, posts & quotes in Canva  
 - Built websites using HTML, CSS, JavaScript, Bootstrap & PHP  
 - Created database connections using MySQL  
-:contentReference[oaicite:4]{index=4}
 
 ### **Data Analyst — Tranistics Data & Technologies**  
 📍 Noida | *Apr 2022 – May 2023*  
 - Filled & validated customer data into company software  
 - Verified unclear PDF data with team lead  
-:contentReference[oaicite:5]{index=5}
 
 ### **Accountant — H.S Associate**  
 📍 Noida | *Oct 2021 – Apr 2022*  
 - Managed company accounts & maintained accuracy  
-:contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -98,7 +95,6 @@ E-commerce website (HTML, CSS, JS + Java backend with NIIT guidance)
 - **B.A.** — IGNOU (2016–2019)  
 - **12th Grade** — Govt. Sr. Sec. School (2014–2015)  
 - **10th Grade** — Cosmos School (2012–2013)  
-:contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -106,7 +102,6 @@ E-commerce website (HTML, CSS, JS + Java backend with NIIT guidance)
 - Hard-working  
 - Eye for detail  
 - Motivator & Team Leader  
-:contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -115,7 +110,6 @@ E-commerce website (HTML, CSS, JS + Java backend with NIIT guidance)
 - Video Games  
 - Music  
 - Learning new things  
-:contentReference[oaicite:9]{index=9}
 
 ---
 
