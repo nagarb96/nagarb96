@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijesh Nagar</h1>
-<h3 align="center">Frontend Developer | WordPress Developer | Digital Marketer</h3>
+<h3 align="center">Frontend Developer | WordPress Specialist | Digital Marketing Professional</h3>
 
 <p align="center">
   <a href="mailto:nagarb96@gmail.com">📧 Email</a> •
