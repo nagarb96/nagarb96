@@ -15,7 +15,7 @@ I enjoy building clean, responsive and functional websites.
 
 Currently working in **Digital Marketing at Clear Click Concept**,  
 where I design social media posts, graphics, and also build websites  
-using HTML, CSS, JS, PHP & MySQL.  
+using wordpress and some section HTML, CSS, JS, PHP & MySQL.  
 
 
 I love learning new technologies, improving my skills, and turning  
