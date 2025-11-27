@@ -1,7 +1,7 @@
 # Hi, I'm Brijesh Nagar 👋
 
 💻 **Frontend Developer | Web Designer | WordPress Developer**  
-📍 Delhi, India  
+📍 Meethapur, Badarpur, Delhi, India  
 📧 nagarb96@gmail.com | 📱 750-398-1251  
 🔗 LinkedIn: https://linkedin.com/in/nagarb96  
 🔗 GitHub: https://github.com/nagarb96
