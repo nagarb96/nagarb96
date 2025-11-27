@@ -49,6 +49,40 @@ Auto-slide + fade effect.
 ### 🔹 Portfolio Website (Coming Soon)
 
 ---
+## 💼 Work Experience
+
+### 📌 Digital Marketing – Clear Click Concept  
+**May 2023 – Present | Noida, UP**  
+- Designed social media graphics, logos, and creative posts using Canva  
+- Developed websites using HTML5, CSS3, Bootstrap, JavaScript, PHP & MySQL  
+- Created front-end UI and managed basic backend connectivity  
+- Worked on digital marketing creatives and web optimization  
+
+---
+
+### 📌 Data Analyst – Tranistics Data & Technologies Pvt. Ltd.  
+**Apr 2022 – May 2023 | Noida, UP**  
+- Analyzed and entered customer data into an internal company software  
+- Verified missing or unreadable information from PDF documents  
+- Ensured accuracy and quality of all data entries  
+
+---
+
+### 📌 Accountant – H.S Associate  
+**Oct 2021 – Apr 2022 | Noida, UP**  
+- Managed billing, invoice entry and financial records  
+- Ensured proper documentation of electric shop product accounts  
+- Maintained accuracy in daily bookkeeping  
+
+---
+
+### 📌 Customer Support – Philips Qdigi  
+**Feb 2018 – Oct 2018 | Noida, UP**  
+- Provided customer support for Philips home appliance products  
+- Helped customers with usage tips and issue resolution  
+- Coordinated with vendors and service teams for quick solutions  
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
