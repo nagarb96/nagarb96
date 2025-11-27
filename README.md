@@ -67,7 +67,7 @@ Auto-slide + fade animation slider
 
 ### 🔹 **Food Hub (Major Project)**
 E-commerce website (HTML, CSS, JS + Java backend with NIIT guidance)  
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
